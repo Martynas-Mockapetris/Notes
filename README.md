@@ -2,7 +2,7 @@
 
 A full-stack note-taking application built with the MERN stack. Create, view, and manage notes through a responsive web interface backed by a REST API and MongoDB.
 
-**[Live Demo](https://notes-yl5h.onrender.com)** · **[GitHub Repository](https://github.com/Martynas-Mockapetris/Notes)**
+**[Live Demo](https://notes-yl5h.onrender.com)** *Might take some time to load first time! · **[GitHub Repository](https://github.com/Martynas-Mockapetris/Notes)**
 
 ## Features
 
